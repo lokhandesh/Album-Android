@@ -1,6 +1,5 @@
 # Album-Android
 
-Album-Android
 This sample demonstrate core application architecture for Android application using Android Architecture Components with Kotlin, Dagger2 and Retrofit
 
 Highlights
