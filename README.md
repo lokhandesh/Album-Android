@@ -11,6 +11,7 @@ Highlights
 5) Kotlin
 6) Dagger2
 7) Retrofit
-8) Unit Testing
-9) Instrumentation Testing
-10) JACOCO for test code coverage
+8) Room DB
+9) Unit Testing
+10) Instrumentation Testing
+11) JACOCO for test code coverage
