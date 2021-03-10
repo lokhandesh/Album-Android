@@ -4,13 +4,14 @@ Album-Android
 This sample demonstrate core application architecture for Android application using Android Architecture Components with Kotlin, Dagger2 and Retrofit
 
 Highlights
-Android project structure
-Clean code
-Android architecture components - LiveData, ViewModel
-Data binding
-Kotlin
-Dagger2
-Retrofit
-Unit Testing
-Instrumentation Testing
-JACOCO for test code coverage
+
+1) Android project structure
+2) Clean code
+3) Android architecture components - LiveData, ViewModel
+4) Data binding
+5) Kotlin
+6) Dagger2
+7) Retrofit
+8) Unit Testing
+9) Instrumentation Testing
+10) JACOCO for test code coverage
